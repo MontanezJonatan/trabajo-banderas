@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:black;
+    text-align: center;
+}
+nav ul li{
+ display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+/*pagina dos*/
+.page2a{
+    width: 700px;
+    height: 285px;
+    border: solid;
+    border-color: black;
+    margin: 20px;
+    background-color: white;
+    padding: 5px;
+}
+.page2b{
+    width:343px ;
+    height:271px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(231, 227, 227);
+    display: inline-block;
+}
+.page2c{
+ width:324px ;
+ height:85px;
+ background-color:yellow;
+ margin: 10px;
+}
+.page2d{
+    width:324px;
+    height:66px;
+    background-color:blue;
+    margin: -9px 0 -10px 10px;;
+}
+.page2e{
+    width:324px;
+    height:66px;
+    background-color:red;
+    margin: 10px 0 -10px 10px;
+}
+.page2a h1{
+    background-color: transparent;
+    text-align: center;
+    color: black;
+    margin: 23px;
+    font-size: 32px;
+}

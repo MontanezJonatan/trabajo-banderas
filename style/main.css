@@ -25,9 +25,145 @@ nav ul li a{
 }
 /*page1*/
 .page1{
-  width:1000px;
-  height: 200px;
+  width:700px;
+  height:285px;
+  border: solid;
+  border-color: black;
   margin: 20px;
-  display: inline-block;
-  background-color:black;
+  background-color:white ;
+  padding:5px;
+  padding-top: 1px;
 }
+.page1a{
+    width:343px ;
+    height:271px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(231, 227, 227);
+    display: inline-block;
+    vertical-align: text-top;
+}
+.page1b{
+ width:324px ;
+ height:75px;
+ background-color:white;
+ margin: 10px;
+}
+.page1c{
+    width:324px;
+    height:75px;
+    background-color:blue;
+    margin: -9px 0 -10px 10px;;
+}
+.page1d{
+    width:324px;
+    height:75px;
+    background-color:red;
+    margin: 10px 0 -10px 10px;
+}
+.page1a h1{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 14px;
+font-size: 20px;
+}
+.page1e{
+width:322px;
+height:228px ;
+background-color:red;
+margin:9px 0px 0px 11px;
+}
+.page1f{
+width:200px;
+height:228px ;
+background-color:white;
+margin:auto;
+}
+.page1f img{
+    height:176px;
+    width:165px;
+    margin:14px 0px 68px 17px;
+}
+.page1a h2{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 6px;
+font-size: 20px;
+}
+.page1g{
+    width:700px;
+    height:285px;
+    border: solid;
+    border-color: black;
+    margin: 30px 0 -5px -8PX;
+    background-color:white ;
+    padding:5px;
+    padding-top: 1px;
+}
+.page1h{
+    width:343px ;
+    height:271px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(231, 227, 227);
+    display: inline-block;
+    vertical-align: text-top;
+    padding-top: 1px;
+}
+.page1i{
+    width:324px;
+    height:218px;
+    background-color: white;
+    margin: 10px;
+}
+.page1j{
+    width:325px;
+    height:50px;
+    background-color: blue;
+    display: inline-block;
+    margin: 85px 0px;
+}
+.page1k{
+    width:50px;
+    height:218px;
+    background-color: blue;
+    display: inline-block;
+    margin: -85px 0 0 85px;
+}
+.page1i h3{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 6px;
+font-size: 20px;
+}
+.page1l{
+    width:324px;
+    height:218px;
+    background-color: white;
+    margin: 10px;
+}
+.page1m{
+    width:163px;
+    height:108px;
+    background-color:red;
+    margin:0 0 0 161px;
+    display: inline-block;
+}
+.page1n{
+    width:162px;
+    height:108px;
+    background-color:blue;
+    margin:-2px 0 0 0;
+    display: inline-block;  
+}
+.page1l img{
+    height:176px;
+    width:165px;
+    margin:-175px 0px -85px 21px;
+}
+
