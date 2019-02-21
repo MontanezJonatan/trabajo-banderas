@@ -29,7 +29,7 @@ nav ul li a{
   height:285px;
   border: solid;
   border-color: black;
-  margin: 20px;
+  margin: auto;
   background-color:white ;
   padding:5px;
   padding-top: 1px;
@@ -114,6 +114,7 @@ font-size: 20px;
     vertical-align: text-top;
     padding-top: 1px;
 }
+
 .page1i{
     width:324px;
     height:218px;
@@ -146,24 +147,124 @@ font-size: 20px;
     height:218px;
     background-color: white;
     margin: 10px;
+    
+}.page1h h4{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 6px;
+font-size: 20px;
 }
 .page1m{
-    width:163px;
-    height:108px;
+    width:162px;
+    height:110px;
     background-color:red;
-    margin:0 0 0 161px;
+    margin:-18px 0 0 161px;
     display: inline-block;
+    vertical-align: top;
 }
 .page1n{
     width:162px;
-    height:108px;
+    height:110px;
     background-color:blue;
     margin:-2px 0 0 0;
     display: inline-block;  
+   
 }
 .page1l img{
-    height:176px;
-    width:165px;
-    margin:-175px 0px -85px 21px;
+    height:90px;
+    width:90px;
+    margin:-76px 0px -80px 35px;
+}
+.page1ñ{
+    width:100px;
+    height:100px;
+    margin: -109px 0px 0 196px;
+    background-color: transparent;
+}
+.page1ñ img{
+    height:87px;
+    width:87px;
+    margin:10px;
+}
+.page1o{
+    width:700px;
+    height:285px;
+    border: solid;
+    border-color: black;
+    margin: 30px 0 -5px -8PX;
+    background-color:white ;
+    padding:5px;
+    padding-top: 1px;
+}
+.page1p{
+    width:343px ;
+    height:271px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(231, 227, 227);
+    display: inline-block;
+    vertical-align: text-top;
+}
+.page1q{
+ width:324px ;
+ height:219px;
+ background-color:white;
+ margin: -115px 1px 0px 8px; 
+}
+.page1r{
+    width:324px;
+    height:48px;
+    background-color: blue;
+    margin: 123px 0px 0px 0px;
+}
+.page1s{
+    width:324px;
+    height:60px;
+    background-color: red;
+    margin:34px 0 -93px 0px;
+}
+.page1s img{
+    width:50px;
+    height:50px;
+    margin:6px 0 0 37px;
+}
+.page1o h5{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 6px;
+    font-size: 20px;   
+}
+.page1t{
+width:324px;
+height:219px;
+background-color: white;
+margin: 10px;
+}
+.page1u{
+    width:90px;
+    height:219px;
+    background-color: rgb(12, 88, 12);
+    margin: 0px;
+}
+.page1v{
+    width:90px;
+    height:219px;
+    background-color:red;
+    margin: -263px 0 0 234px;
+}
+.page1t img{
+width:70px;
+height:70px;
+margin: -144px 0px 114px 128px;
+}
+.page1o h6{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 6px;
+    font-size: 20px; 
 }
 
