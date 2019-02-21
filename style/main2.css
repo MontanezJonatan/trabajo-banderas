@@ -20,13 +20,16 @@ nav ul li a{
     font-family: 'Dancing Script', cursive;
     font-size: 30px;
 }
+.active{
+    background-color: red;
+}
 /*pagina dos*/
 .page2a{
     width: 700px;
     height: 285px;
     border: solid;
     border-color: black;
-    margin: 20px;
+    margin: auto;
     background-color: white;
     padding: 5px;
 }
@@ -35,9 +38,10 @@ nav ul li a{
     height:271px;
     border:solid ;
     border-color:black ;
-    margin: 4px 0 -5px -1PX;
+    margin: 2px 0 -24px -1PX;
     background-color: rgb(231, 227, 227);
     display: inline-block;
+    vertical-align: top;
 }
 .page2c{
  width:324px ;
@@ -58,9 +62,203 @@ nav ul li a{
     margin: 10px 0 -10px 10px;
 }
 .page2a h1{
-    background-color: transparent;
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 14px;
+font-size: 20px;
+}
+.page2f{
+    width:324px;
+    height:209px;
+    background-color: white;
+    margin:8px 0 0 10px;
+    padding-top: 10px;
+}
+
+.page2g{
+    width:150px;
+    height:150px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 22px auto;
+}
+.page2a h2{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 14px;
+font-size: 20px;
+}
+.page2h{
+    width: 700px;
+    height: 285px;
+    border: solid;
+    border-color: black;
+    margin: auto;
+    background-color: white;
+    padding: 5px;
+}
+.page2i{
+    width:343px ;
+    height:271px;
+    border:solid ;
+    border-color:black ;
+    margin: 2px 0 -24px -1PX;
+    background-color: rgb(231, 227, 227);
+    display: inline-block;
+    vertical-align: top;
+}
+.page2j{
+width:324px ;
+height:215px;
+background-color:white;
+margin: 10px;
+}
+.page2k{
+    width:324px;
+    height:65px;
+    background-color: rgb(19, 152, 241);
+    margin: 0px
+}
+.page2l{
+    width:324px;
+    height:65px;
+    background-color: rgb(19, 152, 241);
+    margin: 7px 0px 0px 0px;
+}
+.page2j img{
+    width:60px;
+    height:60px;
+    margin:14px 0px 0px 140px;
+}
+.page2h h3{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 14px;
+font-size: 20px;
+}
+.page2m{
+width:324px ;
+height:215px;
+background-color:white;
+margin: 10px;
+}
+.page2n{
+    width:324px;
+    height:25px;
+    background-color: blue;
+    margin: 0px
+}
+.page2ñ{
+    width:324px;
+    height:151px;
+    background-color:red ;
+    margin: 7px 0 0 0;
+    padding-top: 10PX;
+}
+.page2o{
+    width:324px;
+    height:25px;
+    background-color: blue;
+    margin: 7px 0px 0px 0px;
+}
+.page2p{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 18px 0px 0px 28px;
+}
+.page2p img{
+    width:90px;
+    height:80px;
+    margin: 5px;
+}
+.page2h h4{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 14px;
+font-size: 20px;
+}
+.page2q{
+    width: 700px;
+    height: 285px;
+    border: solid;
+    border-color: black;
+    margin: auto;
+    background-color: white;
+    padding: 5px;
+}
+.page2r{
+    width:343px ;
+    height:271px;
+    border:solid ;
+    border-color:black ;
+    margin: 2px 0 -24px -1PX;
+    background-color: rgb(231, 227, 227);
+    display: inline-block;
+    vertical-align: top;
+}
+.page2s{
+    width: 324px;
+    height:218px;
+    background-color: white;
+    margin: 10px;
+}
+.page2t{
+    width:324px;
+    height:65px;
+    background-color: rgb(218, 15, 15);
+    margin: 0px;
+}
+.page2u{
+    width:324px;
+    height:65px;
+    background-color: black;
+    margin: 11px 0 0 0px;
+}
+.page2s img{
+    width: 60px;
+    height:60px;
+    margin: 13px 0 0 134px;
+}
+.page2q h5{
+background-color:transparent;
+text-align: center;
+color: black;
+margin: 14px;
+font-size: 20px;
+}
+.page2v{
+    width: 324px;
+    height:218px;
+    background-color:rgb(255, 217, 0);
+    margin: 10px;
+}
+.page2x{
+    width:324px;
+    height:65px;
+    background-color: rgb(206, 5, 5);
+    margin: 0px;
+}
+.page2y{
+    width:324px;
+    height:65px;
+    background-color: rgb(206, 5, 5);
+    margin: 16px 0px;
+}
+.page2v img{
+    width:65px;
+    height:65px;
+    margin: 3px 0 0 126px;
+}
+.page2q h6{
+    background-color:transparent;
     text-align: center;
     color: black;
-    margin: 23px;
-    font-size: 32px;
+    margin: 14px;
+    font-size: 20px;
 }
